@@ -100,4 +100,4 @@ sql_queries.sql     -> SQL analysis queries
 
 ## Author
 
-Maran
+sivamaran
