@@ -94,7 +94,7 @@ sql_queries.sql     -> SQL analysis queries
 
 <img width="502" height="279" alt="Screenshot 2026-05-17 174327" src="https://github.com/user-attachments/assets/5d6730fc-2e3a-4bae-83be-6b0d80df96ba" />
 
-<img width="499" height="281" alt="Screenshot 2026-05-17 174407" src="https://github.com/user-attachments/assets/bd7588f7-7732-46f0-8b32-53d671d3cf20" />
+<img width="499" height="281" alt="Screenshot 2026-05-18 140628" src="https://github.com/user-attachments/assets/bd7588f7-7732-46f0-8b32-53d671d3cf20" />
 
 ---
 
